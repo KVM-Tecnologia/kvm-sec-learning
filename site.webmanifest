@@ -1,0 +1,15 @@
+{
+  "name": "Treinamento de Segurança da Informação | KVM Tecnologia",
+  "short_name": "KVM Segurança",
+  "icons": [
+    {
+      "src": "https://kvmt.com.br/wp-content/uploads/2021/12/cropped-Simbolo-Colorido-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#005a4d",
+  "background_color": "#f9fffc",
+  "display": "standalone"
+}
